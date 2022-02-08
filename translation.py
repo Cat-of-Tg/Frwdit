@@ -7,7 +7,7 @@ class Translation(object):
 ɴᴏᴛʜɪɴɢ ᴍᴏʀᴇ</i>"""
   CAPTION = "`{}`\n\n" + str(Config.CAPTION)
   HELP_TXT = """<b>🚶🏼ɴᴏᴛʜɪɴɢ ʜᴇʀᴇ ᴠʀᴏ</b>"""
-  ABOUT_TXT = """<b><u>My Info</b></u>
+  ABOUT_TXT = """
 
 <b>Name :</b> <code>ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ</code>
 <b>Credit :</b> <code>ᴩᴏɪꜱᴏɴ</code>
