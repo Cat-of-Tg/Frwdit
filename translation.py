@@ -9,9 +9,9 @@ class Translation(object):
   HELP_TXT = """<b>🚶🏼ɴᴏᴛʜɪɴɢ ʜᴇʀᴇ ᴠʀᴏ</b>"""
   ABOUT_TXT = """
 
-<b>Name :</b> <code>ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ</code>
-<b>Credit :</b> <code>ᴩᴏɪꜱᴏɴ</code>
-<b>Language :</b> <code>ᴩyᴛʜᴏɴ3</code>
-<b>Lybrary :</b> <code>ᴩyʀᴏɢʀᴀᴍ ᴠ1.2.9</code>
-<b>Server :</b> <code>ʜᴇʀᴏᴋᴜ</code>
-<b>Build :</b><code>ᴠ0.1</code>"""
+<b>ɴᴀᴍᴇ :</b> <code>ᴀᴜᴛᴏ ꜰᴏʀᴡᴀʀᴅ ʙᴏᴛ</code>
+<b>ᴄʀᴇᴅɪᴛ :</b> <code>ᴩᴏɪꜱᴏɴ</code>
+<b>ʟᴀɴɢᴜᴀɢᴇ :</b> <code>ᴩyᴛʜᴏɴ3</code>
+<b>ʟyʙʀᴀʀy :</b> <code>ᴩyʀᴏɢʀᴀᴍ ᴠ1.2.9</code>
+<b>ꜱᴇʀᴠᴇʀ :</b> <code>ʜᴇʀᴏᴋᴜ</code>
+<b>ʙᴜɪʟᴅ :</b><code>ᴠ0.1</code>"""
